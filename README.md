@@ -8,7 +8,7 @@ mensuales, para lo cual es necesario tener en cuenta los siguientes elementos pa
 * El control de consumo se hace a través de mediciones la anterior y la actual 
 * (se resta de la lectura actual la lectura anterior y así da el consumo mensual)
 * El cobro se basa en kilowatts que consuma la casa el cual tiene un valor de
-$500.estratos 1 y 2, $700 estratos 3 y 4 y $1000 para los otros estratos.
+$500 estratos 1 y 2, $700 estratos 3 y 4 y $1000 para los otros estratos.
 * Cuando el consumo supera los 150 kilowatts el costo del kilowatts aumenta $150 para cada kilowatts.
 * Los estratos 1 y 2 tiene un subsidio de descuento de $20000 sino superen los 150 kilowatts mes
 La empresa desea saber cuál es el recaudo total si maneja 10 clientes
