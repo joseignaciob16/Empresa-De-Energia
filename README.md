@@ -1,4 +1,4 @@
-# Empresa-de-Energia
+# Empresa de Energia
 
 1. Para el Login el Usuario es Jose Ignacio y la contraseña es password
 
